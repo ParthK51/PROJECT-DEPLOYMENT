@@ -1,0 +1,60 @@
+cmd to installl:pip install streamlit
+cmd to run: streamlit  run app.py  
+
+
+
+
+streamlit is python based web framework
+
+instead of using html css we can directly create the dashboards chatbots forms tables ets.
+
+what are components in streamlit?
+
+components are the building blocks of a streamlit application.
+
+1. text components:
+            title()
+            header()
+            subheader()
+            text()
+            markdown()
+            latex()
+            write()
+            code()
+            image()
+            audio()
+            video()
+
+2. input components
+            text_input()
+            number_input()
+            slider()
+            select_box()
+            radio()
+            checkbox()
+            button()
+            file_uploader()
+            date_input()
+            time_input()
+            
+3. display components
+            display()
+            table()
+            dataframe()
+            json()
+            metric()
+            progress()
+
+4. layout components
+            sidebar()
+            columns()
+            tabs()
+            expander()
+            container()
+
+5. chart components
+6. widget components
+7. media components
+8. data components
+9. control components
+10. custom components
